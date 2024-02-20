@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eli Rosenfeld</h1>
 <h3 align="center"IDF Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif">
+<img src="https://via.placeholder.com/400x200" alt="Placeholder Image" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosenfeld99&label=Profile%20views&color=0e75b6&style=flat" alt="rosenfeld99" /> </p>
 
