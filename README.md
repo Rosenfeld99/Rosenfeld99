@@ -1,7 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Eli Rosenfeld</h1>
 <h3 align="center"IDF Full Stack Developer</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif"> -->
 <img src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif" align="right" alt="Coding" width="400" ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosenfeld99&label=Profile%20views&color=0e75b6&style=flat" alt="rosenfeld99" /> </p>
