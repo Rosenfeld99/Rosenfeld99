@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img  src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
 - 🔭 I’m currently working on [IDF project (is sercret)](https://github.com/)
 
 - 🌱 I’m currently learning **flutter**
