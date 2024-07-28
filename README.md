@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rosenfeld99](https://github.com/Rosenfeld99)
+- 👨‍💻 Personale protfolio [Click me :)](https://eli-rosenfeld-protfolio.netlify.app/)
 
 - 💬 Ask me about **fullStack**
 
