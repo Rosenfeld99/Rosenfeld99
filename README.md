@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/djwetaeqt/image/upload/v1729470156/github_Images/Code_typing-bro_2_ngtbdd.png">
 
 - 🔭 I’m currently working on [IDF project (is sercret)](https://github.com/)
 
