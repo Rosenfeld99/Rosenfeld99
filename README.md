@@ -7,15 +7,18 @@
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/djwetaeqt/image/upload/v1729470156/github_Images/Code_typing-bro_2_ngtbdd.png">
 
-- 🔭 I’m currently working on [IDF project (is sercret)](https://github.com/)
+<div align="left">
+  
+- 🔭 I’m currently working on IDF project (is sercret)
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Vue**
 
-- 👨‍💻 Personale protfolio [Click me :)](https://eli-rosenfeld-protfolio.netlify.app/)
+- 👨‍💻 Personale protfolio [--> Click here <--](https://eli-rosenfeld-protfolio.netlify.app/)
 
-- 💬 Ask me about **fullStack**
+- 💬 Ask me about **frontEnd** & **fullStack**
 
 - 📫 How to reach me **eliyahuMeir12@gmail.com**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
