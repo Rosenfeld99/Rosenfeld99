@@ -31,8 +31,30 @@
 </a> <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://socket.io/images/logo.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosenfeld99&show_icons=true&locale=en&layout=compact" alt="rosenfeld99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rosenfeld99&show_icons=true&locale=en" alt="rosenfeld99" /></p>
+<p>
+  <!-- Dark mode -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rosenfeld99&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" style="width: 100%;" />
+    <!-- Light mode -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rosenfeld99&show_icons=true&locale=en&layout=compact&theme=light&hide_border=true" alt="rosenfeld99" style="width: 100%;" />
+  </picture>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rosenfeld99&" alt="rosenfeld99" /></p>
+<p>
+  <!-- Dark mode -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=rosenfeld99&show_icons=true&locale=en&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" style="width: 100%;" />
+    <!-- Light mode -->
+    <img src="https://github-readme-stats.vercel.app/api?username=rosenfeld99&show_icons=true&locale=en&theme=light&hide_border=true" alt="rosenfeld99" style="width: 100%;" />
+  </picture>
+</p>
+
+<p>
+  <!-- Dark mode -->
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=rosenfeld99&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" style="width: 100%;" />
+    <!-- Light mode -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rosenfeld99&theme=light&hide_border=true" alt="rosenfeld99" style="width: 100%;" />
+  </picture>
+</p>
